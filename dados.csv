@@ -1,0 +1,5 @@
+id,texto,categoria
+1,"O Pandas é uma biblioteca poderosa para manipulação de tabelas e DataFrame em Python.","Python"
+2,"O ChromaDB armazena embeddings de texto permitindo buscas semânticas ultrarrápidas.","Banco de Dados"
+3,"RAG combina recuperação de documentos externos com modelos de linguagem para respostas precisas.","IA"
+4,"O Visual studio code é um editor de código leve e muito popular entre desenvolvedores Python.","Ferramentas"
