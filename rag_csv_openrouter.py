@@ -4,7 +4,7 @@ from openai import OpenAI
 # 1. Configurar o cliente da OpenAI apontando para a OpenRouter
 client_openrouter = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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",  # Cole sua chave real da OpenRouter aqui
+    api_key="SUA-CHAVE-API",  # Cole sua chave real da OpenRouter aqui
 )
 
 # 2. Conectar ao ChromaDB (onde os dados do seu CSV estão salvos)
